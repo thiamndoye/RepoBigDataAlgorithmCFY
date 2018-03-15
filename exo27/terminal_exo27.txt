@@ -1,0 +1,108 @@
+[cloudera@quickstart ~]$ bash /home/cloudera/Desktop/exo27/exo27.sh
+Running exo 2.7
+Not a valid JAR: /home/cloudera/Desktop/exo27/arbreHeightYear.jar
+The program run during 10 sec.
+[cloudera@quickstart ~]$ hdfs dfs -rm -R arbresCount
+Deleted arbresCount
+[cloudera@quickstart ~]$ bash /home/cloudera/Desktop/exo27/exo27.sh
+Running exo 2.7
+The year of the tree is ANNEE PLANTATION and the height HAUTEUR
+The year of the tree is 1935 and the height 13.0
+The year of the tree is 1854 and the height 20.0
+The year of the tree is 1862 and the height 22.0
+The year of the tree is 1906 and the height 16.0
+The year of the tree is 1784 and the height 30.0
+The year of the tree is 1860 and the height 45.0
+The year of the tree is 1840 and the height 40.0
+The year of the tree is 1933 and the height 16.0
+The year of the tree is  and the height 30.0
+The year of the tree is 1913 and the height 33.0
+The year of the tree is  and the height 30.0
+The year of the tree is  and the height 35.0
+The year of the tree is 1862 and the height 35.0
+The year of the tree is  and the height 12.0
+The year of the tree is 1850 and the height 30.0
+The year of the tree is  and the height 10.0
+The year of the tree is 1857 and the height 10.0
+The year of the tree is 1882 and the height 27.0
+The year of the tree is 1872 and the height 
+The year of the tree is  and the height 30.0
+The year of the tree is 1843 and the height 26.0
+The year of the tree is 1872 and the height 18.0
+The year of the tree is 1845 and the height 28.0
+The year of the tree is 1930 and the height 20.0
+The year of the tree is  and the height 10.0
+The year of the tree is 1870 and the height 25.0
+The year of the tree is 1601 and the height 11.0
+The year of the tree is  and the height 12.0
+The year of the tree is 1879 and the height 22.0
+The year of the tree is 1850 and the height 20.0
+The year of the tree is  and the height 35.0
+The year of the tree is 1894 and the height 18.0
+The year of the tree is  and the height 30.0
+The year of the tree is 1935 and the height 30.0
+The year of the tree is 1873 and the height 10.0
+The year of the tree is 1862 and the height 34.0
+The year of the tree is 1833 and the height 12.0
+The year of the tree is  and the height 35.0
+The year of the tree is  and the height 18.0
+The year of the tree is 1897 and the height 14.0
+The year of the tree is 1850 and the height 30.0
+The year of the tree is 1872 and the height 40.0
+The year of the tree is 1882 and the height 30.0
+The year of the tree is 1859 and the height 30.0
+The year of the tree is 1900 and the height 16.0
+The year of the tree is 1862 and the height 35.0
+The year of the tree is 1930 and the height 22.0
+The year of the tree is 1870 and the height 5.0
+The year of the tree is 1871 and the height 25.0
+The year of the tree is 1875 and the height 14.0
+The year of the tree is 1860 and the height 15.0
+The year of the tree is 1935 and the height 15.0
+The year of the tree is 1905 and the height 2.0
+The year of the tree is 1879 and the height 20.0
+The year of the tree is 1895 and the height 23.0
+The year of the tree is 1829 and the height 30.0
+The year of the tree is 1895 and the height 10.0
+The year of the tree is  and the height 12.0
+The year of the tree is 1862 and the height 30.0
+The year of the tree is 1857 and the height 27.0
+The year of the tree is 1945 and the height 20.0
+The year of the tree is 1880 and the height 20.0
+The year of the tree is 1905 and the height 30.0
+The year of the tree is  and the height 6.0
+The year of the tree is 1868 and the height 15.0
+The year of the tree is 1906 and the height 12.0
+The year of the tree is 1815 and the height 31.0
+The year of the tree is 1860 and the height 42.0
+The year of the tree is 1935 and the height 12.0
+The year of the tree is  and the height 14.0
+The year of the tree is 1814 and the height 31.0
+The year of the tree is 1900 and the height 20.0
+The year of the tree is 1895 and the height 25.0
+The year of the tree is  and the height 20.0
+The year of the tree is 1772 and the height 13.0
+The year of the tree is 1782 and the height 30.0
+The year of the tree is 1840 and the height 30.0
+The year of the tree is  and the height 22.0
+The year of the tree is 1893 and the height 18.0
+The year of the tree is 1865 and the height 25.0
+The year of the tree is 1882 and the height 20.0
+The year of the tree is  and the height 15.0
+The year of the tree is 1814 and the height 20.0
+The year of the tree is 1865 and the height 20.0
+The year of the tree is 1939 and the height 25.0
+The year of the tree is 1852 and the height 30.0
+The year of the tree is  and the height 20.0
+The year of the tree is 1907 and the height 9.0
+The year of the tree is 1847 and the height 40.0
+The year of the tree is 1859 and the height 25.0
+The year of the tree is  and the height 12.0
+The year of the tree is 1852 and the height 30.0
+The year of the tree is 1863 and the height 12.0
+The year of the tree is 1896 and the height 16.0
+The year of the tree is 1918 and the height 32.0
+The year of the tree is 1860 and the height 22.0
+The year of the tree is 1870 and the height 15.0
+The program run during 16 sec.
+[cloudera@quickstart ~]$ 
