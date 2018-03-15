@@ -1,0 +1,257 @@
+The station name is CROSSVILLE 7 NW              . Its elevation:  +0583.. The USAF number: 99999 and the FIPS: US
+The station name is BRUNSWICK 23 S               . Its elevation:  +0007.. The USAF number: 99999 and the FIPS: US
+The station name is GADSDEN 19 N                 . Its elevation:  +0351.. The USAF number: 99999 and the FIPS: US
+The station name is SELMA 13 WNW                 . Its elevation:  +0058.. The USAF number: 99999 and the FIPS: US
+The station name is VALLEY HEAD 1 SSW            . Its elevation:  +0310.. The USAF number: 99999 and the FIPS: US
+The station name is GUNTERSVILLE 2 SW            . Its elevation:  +0189.. The USAF number: 99999 and the FIPS: US
+The station name is CULLMAN 3 ENE                . Its elevation:  +0243.. The USAF number: 99999 and the FIPS: US
+The station name is COURTLAND 2 WSW              . Its elevation:  +0175.. The USAF number: 99999 and the FIPS: US
+The station name is FAIRHOPE 3 NE                . Its elevation:  +0029.. The USAF number: 99999 and the FIPS: US
+The station name is TRI-COUNTY AIRPORT           . Its elevation:  +0025.. The USAF number: 99999 and the FIPS: US
+The station name is WHITEHOUSE NAVAL OUTLYING FIE. Its elevation:  +0030.. The USAF number: 99999 and the FIPS: US
+The station name is CLANTON 2 NE                 . Its elevation:  +0178.. The USAF number: 99999 and the FIPS: US
+The station name is GAINESVILLE 2 NE             . Its elevation:  +0032.. The USAF number: 99999 and the FIPS: US
+The station name is GREENSBORO 2 WNW             . Its elevation:  +0085.. The USAF number: 99999 and the FIPS: US
+The station name is MUSCLE SHOALS 2 N            . Its elevation:  +0161.. The USAF number: 99999 and the FIPS: US
+The station name is RUSSELLVILLE 4 SSE           . Its elevation:  +0219.. The USAF number: 99999 and the FIPS: US
+The station name is SCOTTSBORO 2 NE              . Its elevation:  +0193.. The USAF number: 99999 and the FIPS: US
+The station name is SELMA 6 SSE                  . Its elevation:  +0047.. The USAF number: 99999 and the FIPS: US
+The station name is BEDFORD 5 WNW                . Its elevation:  +0231.. The USAF number: 99999 and the FIPS: US
+The station name is BREWTON 3 NNE                . Its elevation:  +0051.. The USAF number: 99999 and the FIPS: US
+The station name is MILLBROOK 3 W                . Its elevation:  +0125.. The USAF number: 99999 and the FIPS: US
+The station name is CRN ON EGBERT 1 W            . Its elevation:  +0246.. The USAF number: 99999 and the FIPS: CA
+The station name is ITHACA 13 E                  . Its elevation:  +0374.. The USAF number: 99999 and the FIPS: US
+The station name is LITTLE AMERICA               . Its elevation:  +0032.. The USAF number: 99999 and the FIPS: AY
+The station name is BYRD STATION                 . Its elevation:  +1542.. The USAF number: 99999 and the FIPS: AY
+The station name is BEARDMORE CAMP               . Its elevation:  +0230.. The USAF number: 99999 and the FIPS: AY
+The station name is BROCKTON STATION             . Its elevation:  +0100.. The USAF number: 99999 and the FIPS: AY
+The station name is DIEGO GARCIA NAF             . Its elevation:  +0002.. The USAF number: 99999 and the FIPS: IO
+The station name is NORTHPORT 2 S                . Its elevation:  +0045.. The USAF number: 99999 and the FIPS: US
+The station name is HIGHLAND HOME 2 S            . Its elevation:  +0187.. The USAF number: 99999 and the FIPS: US
+The station name is TALLADEGA 10 NNE             . Its elevation:  +0160.. The USAF number: 99999 and the FIPS: US
+The station name is NORTHWEST FLORIDA BEACHES INT. Its elevation:  +0021.. The USAF number: 99999 and the FIPS: US
+The station name is PLATEAU STATION              . Its elevation:  +3504.. The USAF number: 99999 and the FIPS: AY
+The station name is BIAK ISLAND NF               . Its elevation:  +0000.. The USAF number: 99999 and the FIPS: ID
+The station name is EMIRAU NF                    . Its elevation:  +0000.. The USAF number: 99999 and the FIPS: PP
+The station name is MANUS ISLAND NF              . Its elevation:  +0043.. The USAF number: 99999 and the FIPS: PP
+The station name is FUNAFUTI NF                  . Its elevation:  +0002.. The USAF number: 99999 and the FIPS: TV
+The station name is NORTHWEST CAPE               . Its elevation:  +0038.. The USAF number: 99999 and the FIPS: AS
+The station name is WILKES                       . Its elevation:  +0011.. The USAF number: 99999 and the FIPS: AY
+The station name is WILKES ICE CAP STATI         . Its elevation:        . The USAF number: 99999 and the FIPS: AY
+The station name is MCMURDO SOUND NAF            . Its elevation:  +0024.. The USAF number: 99999 and the FIPS: AY
+The station name is MARBLE POINT                 . Its elevation:  +0047.. The USAF number: 99999 and the FIPS: AY
+The station name is HUT POINT                    . Its elevation:  +0025.. The USAF number: 99999 and the FIPS: AY
+The station name is ADARE HALLETT                . Its elevation:  +0004.. The USAF number: 99999 and the FIPS: AY
+The station name is LIV                          . Its elevation:  +0182.. The USAF number: 99999 and the FIPS: AY
+The station name is BEARDMORE CAMP               . Its elevation:  +0059.. The USAF number: 99999 and the FIPS: AY
+The station name is LITTLE JEANA STATION         . Its elevation:  +0053.. The USAF number: 99999 and the FIPS: AY
+The station name is FLETCHER ICE ISLAND T-3 (ARCT. Its elevation:  +0006.. The USAF number: 99999 and the FIPS: US
+The station name is ICE SKATE B                  . Its elevation:        . The USAF number: 99999 and the FIPS: IC
+The station name is TAMPA BAY EXECUTIVE          . Its elevation:  +0012.. The USAF number: 99999 and the FIPS: US
+The station name is LIFEGUARD OFFICE             . Its elevation:  +0002.. The USAF number: 99999 and the FIPS: US
+The station name is TITUSVILLE 7 E               . Its elevation:  +0000.. The USAF number: 99999 and the FIPS: US
+The station name is EVERGLADES CITY 5 NE         . Its elevation:  +0001.. The USAF number: 99999 and the FIPS: US
+The station name is SEBRING 23 SSE               . Its elevation:  +0045.. The USAF number: 99999 and the FIPS: US
+The station name is DOUGLAS MUNICIPAL AP         . Its elevation:  +1250.. The USAF number: 99999 and the FIPS: US
+The station name is DENVER NAS                   . Its elevation:  +1695.. The USAF number: 99999 and the FIPS: US
+The station name is MARFA                        . Its elevation:  +1478.. The USAF number: 99999 and the FIPS: US
+The station name is COLORADO SPRINGS PETERSON FIE. Its elevation:  +1880.. The USAF number: 99999 and the FIPS: US
+The station name is LAS CRUCES MUNICIPAL AP      . Its elevation:  +1358.. The USAF number: 99999 and the FIPS: US
+The station name is DALHART MUNICIPAL AP         . Its elevation:  +1217.. The USAF number: 99999 and the FIPS: US
+The station name is ZUNI                         . Its elevation:  +1923.. The USAF number: 99999 and the FIPS: US
+The station name is TRUTH OR CONSEQUENCES MUNI AP. Its elevation:  +1480.. The USAF number: 99999 and the FIPS: US
+The station name is GRANTS MILAN MUNICIPAL AP    . Its elevation:  +1987.. The USAF number: 99999 and the FIPS: US
+The station name is SILVER CITY GRANT CO         . Its elevation:  +1659.. The USAF number: 99999 and the FIPS: US
+The station name is NWS AWRS                     . Its elevation:  +2393.. The USAF number: 99999 and the FIPS: US
+The station name is EL TORO MCAS                 . Its elevation:  +0116.. The USAF number: 99999 and the FIPS: US
+The station name is FALLON NAAS                  . Its elevation:  +1199.. The USAF number: 99999 and the FIPS: US
+The station name is CHINA LAKE NAF               . Its elevation:  +0695.. The USAF number: 99999 and the FIPS: US
+The station name is LITCHFIELD PARK NAF          . Its elevation:  +0292.. The USAF number: 99999 and the FIPS: US
+The station name is LOS ALAMITOS                 . Its elevation:  +0011.. The USAF number: 99999 and the FIPS: US
+The station name is SAN DIEGO MIRAMAR NAS        . Its elevation:  +0145.. The USAF number: 99999 and the FIPS: US
+The station name is MOJAVE MCAS                  . Its elevation:  +0841.. The USAF number: 99999 and the FIPS: US
+The station name is POINT MUGU NF                . Its elevation:  +0003.. The USAF number: 99999 and the FIPS: US
+The station name is SAN PEDRO NAS                . Its elevation:  +0013.. The USAF number: 99999 and the FIPS: US
+The station name is MARINE CORPS AIR STATION     . Its elevation:  +0017.. The USAF number: 99999 and the FIPS: US
+The station name is IMPERIAL BEACH REAM FIELD NAS. Its elevation:  +0007.. The USAF number: 99999 and the FIPS: US
+The station name is SAN NICHOLAS ISLAND          . Its elevation:  +0153.. The USAF number: 99999 and the FIPS: US
+The station name is SALTON SEA NAAF              . Its elevation:  -0068.. The USAF number: 99999 and the FIPS: US
+The station name is THERMAL NAF                  . Its elevation:  -0036.. The USAF number: 99999 and the FIPS: US
+The station name is TWENTY NINE PALMS            . Its elevation:  +0625.. The USAF number: 99999 and the FIPS: US
+The station name is FALLON CAA AP                . Its elevation:  +1200.. The USAF number: 99999 and the FIPS: US
+The station name is SANTA BARBARA MCAS           . Its elevation:  +0004.. The USAF number: 99999 and the FIPS: US
+The station name is CEDAR CITY MUNICIPAL AP      . Its elevation:  +1712.. The USAF number: 99999 and the FIPS: US
+The station name is LOS ANGELES DOWNTOWN USC CAMP. Its elevation:  +0056.. The USAF number: 99999 and the FIPS: US
+The station name is MOUNT WILSON                 . Its elevation:  +1738.. The USAF number: 99999 and the FIPS: US
+The station name is PAYSON                       . Its elevation:  +1498.. The USAF number: 99999 and the FIPS: US
+The station name is SANTA ANA                    . Its elevation:  +0016.. The USAF number: 99999 and the FIPS: US
+The station name is FRESNO YOSEMITE INTL AP      . Its elevation:  +0099.. The USAF number: 99999 and the FIPS: US
+The station name is ST GEORGE INTERM FLD         . Its elevation:  +0882.. The USAF number: 99999 and the FIPS: US
+The station name is PASO ROBLES MUNICIPAL ARPT   . Its elevation:  +0249.. The USAF number: 99999 and the FIPS: US
+The station name is OAKLAND NAS                  . Its elevation:  +0002.. The USAF number: 99999 and the FIPS: US
+The station name is POINT ARGUELLO AFWB          . Its elevation:  +0111.. The USAF number: 99999 and the FIPS: US
+The station name is BEALE AFB                    . Its elevation:  +0034.. The USAF number: 99999 and the FIPS: US
+The station name is FRITZSCHE AAF                . Its elevation:  +0043.. The USAF number: 99999 and the FIPS: US
+The station name is PT POEDRAS BLANCA            . Its elevation:  +0018.. The USAF number: 99999 and the FIPS: US
+The station name is MERCED 23 WSW                . Its elevation:  +0023.. The USAF number: 99999 and the FIPS: US
+The station name is BODEGA 6 WSW                 . Its elevation:  +0019.. The USAF number: 99999 and the FIPS: US
+The station name is NORTH MYRTLE BEACH AIRPORT   . Its elevation:  +0010.. The USAF number: 99999 and the FIPS: US
+The station name is NEW BERN CRAVEN CO REGL AP   . Its elevation:  +0007.. The USAF number: 99999 and the FIPS: US
+The station name is SALISBURY WICOMICO CO AP     . Its elevation:  +0018.. The USAF number: 99999 and the FIPS: US
+The station name is BALTIMORE BLT-WASHNG         . Its elevation:  +0047.. The USAF number: 99999 and the FIPS: US
+The station name is KINSTON STALLINGS AFB        . Its elevation:  +0028.. The USAF number: 99999 and the FIPS: US
+The station name is NEW RIVER MCAS               . Its elevation:  +0007.. The USAF number: 99999 and the FIPS: US
+The station name is HATTERAS BILLY MITCHELL AP   . Its elevation:  +0003.. The USAF number: 99999 and the FIPS: US
+The station name is ATLANTIC CITY INTL A         . Its elevation:  +0020.. The USAF number: 99999 and the FIPS: US
+The station name is NORFOLK FLEET WF NAS         . Its elevation:  +0010.. The USAF number: 99999 and the FIPS: US
+The station name is NEW YORK SHOALS AFS          . Its elevation:  +0025.. The USAF number: 99999 and the FIPS: US
+The station name is STERLING                     . Its elevation:  +0085.. The USAF number: 99999 and the FIPS: US
+The station name is FORT EUSTIS FELKER AAF       . Its elevation:  +0003.. The USAF number: 99999 and the FIPS: US
+The station name is CHARLOTTESVILLE FAA          . Its elevation:  +0196.. The USAF number: 99999 and the FIPS: US
+The station name is FORT BRAGG SIMMONS AAF       . Its elevation:  +0073.. The USAF number: 99999 and the FIPS: US
+The station name is WASHINGTON DULLES INTERNATION. Its elevation:  +0098.. The USAF number: 99999 and the FIPS: US
+The station name is WALLOPS ISLAND UAU           . Its elevation:  +0014.. The USAF number: 99999 and the FIPS: US
+The station name is BOGUE FIELD MCAF             . Its elevation:  +0006.. The USAF number: 99999 and the FIPS: US
+The station name is CHERRY POINT/MCAS ASOS 2     . Its elevation:  +0009.. The USAF number: 99999 and the FIPS: US
+The station name is ROME R B RUSSELL AP          . Its elevation:  +0196.. The USAF number: 99999 and the FIPS: US
+The station name is SMITHVILLE CAA AP            . Its elevation:  +0328.. The USAF number: 99999 and the FIPS: US
+The station name is SPARTANBURG                  . Its elevation:  +0244.. The USAF number: 99999 and the FIPS: US
+The station name is TALLAHASSEE DALE MABRY FIELD . Its elevation:  +0020.. The USAF number: 99999 and the FIPS: US
+The station name is TUSCALOOSA MUNICIPAL AP      . Its elevation:  +0056.. The USAF number: 99999 and the FIPS: US
+The station name is WINSTON-SALEM REYNOLDS AP    . Its elevation:  +0295.. The USAF number: 99999 and the FIPS: US
+The station name is BOWLING GREEN WARREN CO AP   . Its elevation:  +0163.. The USAF number: 99999 and the FIPS: US
+The station name is CARBONDALE SOUTHERN ILLINOIS . Its elevation:  +0126.. The USAF number: 99999 and the FIPS: US
+The station name is CINCINNATI GREATER CINCINNATI. Its elevation:  +0269.. The USAF number: 99999 and the FIPS: US
+The station name is DAYTON MUNICIPAL ARPT        . Its elevation:  +0305.. The USAF number: 99999 and the FIPS: US
+The station name is EFFINGHAM COUNTY MEMORIAL ARP. Its elevation:  +0178.. The USAF number: 99999 and the FIPS: US
+The station name is EVANSVILLE DRESS REGIONAL ARP. Its elevation:  +0118.. The USAF number: 99999 and the FIPS: US
+The station name is CHESAPEAKE HUNTINGTON AP     . Its elevation:  +0170.. The USAF number: 99999 and the FIPS: US
+The station name is INDIANAPOLIS WEIR COOK MUNICI. Its elevation:  +0246.. The USAF number: 99999 and the FIPS: US
+The station name is LEXINGTON BLUEGRASS FIELD    . Its elevation:  +0301.. The USAF number: 99999 and the FIPS: US
+The station name is LOUISVILLE STANDIFORD FIELD  . Its elevation:  +0148.. The USAF number: 99999 and the FIPS: US
+The station name is SPRINGFIELD CAPITAL AP       . Its elevation:  +0186.. The USAF number: 99999 and the FIPS: US
+The station name is TERRE HAUTE HULMAN FIELD     . Its elevation:  +0017.. The USAF number: 99999 and the FIPS: US
+The station name is ZANESVILLE MUNICIPAL AP      . Its elevation:  +0274.. The USAF number: 99999 and the FIPS: US
+The station name is ADVANCE 1 S                  . Its elevation:  +0109.. The USAF number: 99999 and the FIPS: US
+The station name is BARIN FIELD NAAS             . Its elevation:  +0021.. The USAF number: 99999 and the FIPS: US
+The station name is PENSACOLA CORRY FLD NAAS     . Its elevation:  +0011.. The USAF number: 99999 and the FIPS: US
+The station name is PENSACOLA CHEVALIER FLD NAS  . Its elevation:  +0021.. The USAF number: 99999 and the FIPS: US
+The station name is ATLANTA NAS                  . Its elevation:  +0302.. The USAF number: 99999 and the FIPS: US
+The station name is BEAUFORT NAS                 . Its elevation:  +0011.. The USAF number: 99999 and the FIPS: US
+The station name is CECIL FIELD NAS              . Its elevation:  +0025.. The USAF number: 99999 and the FIPS: US
+The station name is COLUMBIA CONGAREE FLD MCAF   . Its elevation:  +0074.. The USAF number: 99999 and the FIPS: US
+The station name is COLUMBUS NAS                 . Its elevation:  +0249.. The USAF number: 99999 and the FIPS: US
+The station name is BRUNSWICK GLYNN CO A         . Its elevation:  +0009.. The USAF number: 99999 and the FIPS: US
+The station name is JACKSONVILLE NAS             . Its elevation:  +0006.. The USAF number: 99999 and the FIPS: US
+The station name is MEMPHIS NAS                  . Its elevation:  +0097.. The USAF number: 99999 and the FIPS: US
+The station name is ST SIMONS ISLAND NAS         . Its elevation:  +0003.. The USAF number: 99999 and the FIPS: US
+The station name is WHITING FIELD NAS            . Its elevation:  +0061.. The USAF number: 99999 and the FIPS: US
+The station name is COLUMBUS MUSCOGEE COUNTY ARPT. Its elevation:  +0120.. The USAF number: 99999 and the FIPS: US
+The station name is DOTHAN MUNICIPAL AP          . Its elevation:  +0097.. The USAF number: 99999 and the FIPS: US
+The station name is PARRIS ISLAND MCAS           . Its elevation:  +0010.. The USAF number: 99999 and the FIPS: US
+The station name is VALDOSTA WB AIRPORT          . Its elevation:  +0060.. The USAF number: 99999 and the FIPS: US
+The station name is ANDERSON COUNTY AP           . Its elevation:  +0235.. The USAF number: 99999 and the FIPS: US
+The station name is DALLAS HENSLEY FIELD NAS     . Its elevation:  +0150.. The USAF number: 99999 and the FIPS: US
+The station name is DURANT                       . Its elevation:  +0213.. The USAF number: 99999 and the FIPS: US
+The station name is FORT WORTH EAGLE MT LK MCAS  . Its elevation:  +0232.. The USAF number: 99999 and the FIPS: US
+The station name is FORT WORTH MEACHAM           . Its elevation:  +0215.. The USAF number: 99999 and the FIPS: US
+The station name is HUTCHINSON NAS               . Its elevation:  +0479.. The USAF number: 99999 and the FIPS: US
+The station name is NEW ORLEANS NAS              . Its elevation:  +0004.. The USAF number: 99999 and the FIPS: US
+The station name is NEWPORT MCAF                 . Its elevation:  +0074.. The USAF number: 99999 and the FIPS: US
+The station name is NORMAN NAS                   . Its elevation:  +0359.. The USAF number: 99999 and the FIPS: US
+The station name is OLATHE JOHNSON CO INDUSTRIAL . Its elevation:  +0331.. The USAF number: 99999 and the FIPS: US
+The station name is ST LOUIS LAMBERT             . Its elevation:  +0166.. The USAF number: 99999 and the FIPS: US
+The station name is ALEXANDRIA INTL AIRPORT      . Its elevation:  +0024.. The USAF number: 99999 and the FIPS: US
+The station name is MCCOMB PIKE COUNTY AP        . Its elevation:  +0128.. The USAF number: 99999 and the FIPS: US
+The station name is GILLESPIE COUNTY AIRPORT     . Its elevation:  +0516.. The USAF number: 99999 and the FIPS: US
+The station name is PALESTINE                    . Its elevation:  +0128.. The USAF number: 99999 and the FIPS: US
+The station name is HOBART MUNICIPAL AP          . Its elevation:  +0478.. The USAF number: 99999 and the FIPS: US
+The station name is LUFKIN ANGELINA CO           . Its elevation:  +0096.. The USAF number: 99999 and the FIPS: US
+The station name is PINE BLUFF                   . Its elevation:  +0065.. The USAF number: 99999 and the FIPS: US
+The station name is QUINCY MUNI BALDWIN FLD      . Its elevation:  +0233.. The USAF number: 99999 and the FIPS: US
+The station name is HILL CITY MUNICIPAL AP       . Its elevation:  +0677.. The USAF number: 99999 and the FIPS: US
+The station name is WALNUT RIDGE MUNICIPAL ARPT  . Its elevation:  +0083.. The USAF number: 99999 and the FIPS: US
+The station name is EL DORADO GOODWIN FIELD      . Its elevation:  +0086.. The USAF number: 99999 and the FIPS: US
+The station name is FAYETTEVILLE DRAKE FIELD     . Its elevation:  +0383.. The USAF number: 99999 and the FIPS: US
+The station name is BUTLER FAA AP                . Its elevation:  +0264.. The USAF number: 99999 and the FIPS: US
+The station name is FARMINGTON                   . Its elevation:  +0288.. The USAF number: 99999 and the FIPS: US
+The station name is RUSSELL MUNICIPAL AP         . Its elevation:  +0567.. The USAF number: 99999 and the FIPS: US
+The station name is VICKSBURG                    . Its elevation:  +0003.. The USAF number: 99999 and the FIPS: US
+The station name is GLASGOW INTL ARPT            . Its elevation:  +0699.. The USAF number: 99999 and the FIPS: US
+The station name is ST MARIE                     . Its elevation:  +0838.. The USAF number: 99999 and the FIPS: US
+The station name is HAVRE CITY-COUNTY AP         . Its elevation:  +0792.. The USAF number: 99999 and the FIPS: US
+The station name is WILLISTON SLOULIN FIELD INTL . Its elevation:  +0580.. The USAF number: 99999 and the FIPS: US
+The station name is GARRISON                     . Its elevation:  +0582.. The USAF number: 99999 and the FIPS: US
+The station name is WOLF POINT 34 NE             . Its elevation:  +0805.. The USAF number: 99999 and the FIPS: US
+The station name is WOLF POINT 29 ENE            . Its elevation:  +0635.. The USAF number: 99999 and the FIPS: US
+The station name is TRENTON MUNICIPAL AIRPORT    . Its elevation:  +0852.. The USAF number: 99999 and the FIPS: US
+The station name is NUNN 7 NNE                   . Its elevation:  +1642.. The USAF number: 99999 and the FIPS: US
+The station name is BOULDER 14 W                 . Its elevation:  +2995.. The USAF number: 99999 and the FIPS: US
+The station name is HARRISON 20 SSE              . Its elevation:  +1343.. The USAF number: 99999 and the FIPS: US
+The station name is LANDER 11 SSE                . Its elevation:  +1759.. The USAF number: 99999 and the FIPS: US
+The station name is WHITMAN 5 ENE                . Its elevation:  +1140.. The USAF number: 99999 and the FIPS: US
+The station name is MEDORA 7 E                   . Its elevation:  +0844.. The USAF number: 99999 and the FIPS: US
+The station name is BUFFALO 13 ESE               . Its elevation:  +0878.. The USAF number: 99999 and the FIPS: US
+The station name is DINOSAUR 2 E                 . Its elevation:  +1847.. The USAF number: 99999 and the FIPS: US
+The station name is NORTHGATE 5 ESE              . Its elevation:  +0561.. The USAF number: 99999 and the FIPS: US
+The station name is PIERRE 24 S                  . Its elevation:  +0647.. The USAF number: 99999 and the FIPS: US
+The station name is SUNDANCE 8 NNW               . Its elevation:  +1765.. The USAF number: 99999 and the FIPS: US
+The station name is AKRON A 4 E                  . Its elevation:  +1384.. The USAF number: 99999 and the FIPS: US
+The station name is MEEKER 15 W                  . Its elevation:  +1756.. The USAF number: 99999 and the FIPS: US
+The station name is POST 0FFICE BLDG.2ND&SUMACH  . Its elevation:  +0289.. The USAF number: 99999 and the FIPS: US
+The station name is ROME STATE AIRPORT           . Its elevation:  +1234.. The USAF number: 99999 and the FIPS: US
+The station name is IDAHO FALLS 46 W             . Its elevation:  +1505.. The USAF number: 99999 and the FIPS: US
+The station name is IDAHO FALLS 42 NW WB         . Its elevation:  +1460.. The USAF number: 99999 and the FIPS: US
+The station name is SPOKANE FELTS FIELD          . Its elevation:  +0599.. The USAF number: 99999 and the FIPS: US
+The station name is GRNT CO RGNL/OGLVIE FD APT   . Its elevation:  +1124.. The USAF number: 99999 and the FIPS: US
+The station name is ASTORIA CLATSOP COUNTY ARPT  . Its elevation:  +0006.. The USAF number: 99999 and the FIPS: US
+The station name is HOQUIAM AP                   . Its elevation:  +0004.. The USAF number: 99999 and the FIPS: US
+The station name is TOFINO                       . Its elevation:  +0024.. The USAF number: 99999 and the FIPS: CA
+The station name is KLAMATH FALLS KINGSLEY FLD AF. Its elevation:  +1247.. The USAF number: 99999 and the FIPS: US
+The station name is QUILLAYUTE AIRPORT           . Its elevation:  +0062.. The USAF number: 99999 and the FIPS: US
+The station name is TACOMA NARROWS AP            . Its elevation:  +0096.. The USAF number: 99999 and the FIPS: US
+The station name is WSFO SEATTLE SAND POINT      . Its elevation:  +0018.. The USAF number: 99999 and the FIPS: US
+The station name is COUPEVILLE/NOLF              . Its elevation:  +0060.. The USAF number: 99999 and the FIPS: US
+The station name is OLCO LANDING AREA SEAPLANE BA. Its elevation:  +0304.. The USAF number: 99999 and the FIPS: US
+The station name is OLD TOWN 2 W                 . Its elevation:  +0038.. The USAF number: 99999 and the FIPS: US
+The station name is LIMESTONE 4 NNW              . Its elevation:  +0224.. The USAF number: 99999 and the FIPS: US
+The station name is BERLIN MUNICIPAL AP          . Its elevation:  +0353.. The USAF number: 99999 and the FIPS: US
+The station name is BRIDGEPORT MUNICIPAL ARPT    . Its elevation:  +0005.. The USAF number: 99999 and the FIPS: US
+The station name is DANSVILLE MUNI AP            . Its elevation:  +0201.. The USAF number: 99999 and the FIPS: US
+The station name is MONTPELIER AP                . Its elevation:  +0341.. The USAF number: 99999 and the FIPS: US
+The station name is MASSENA AP                   . Its elevation:  +0065.. The USAF number: 99999 and the FIPS: US
+The station name is NEW YORK CENTRAL PARK ARSNL B. Its elevation:  +0047.. The USAF number: 99999 and the FIPS: US
+The station name is PHILADELPHIA NE PHILADELPHIA . Its elevation:  +0036.. The USAF number: 99999 and the FIPS: US
+The station name is PORTSMOUTH                   . Its elevation:  +0029.. The USAF number: 99999 and the FIPS: US
+The station name is TETERBORO AIRPORT            . Its elevation:  +0002.. The USAF number: 99999 and the FIPS: US
+The station name is WHITE PLAINS WESTCHESTER CO A. Its elevation:  +0121.. The USAF number: 99999 and the FIPS: US
+The station name is WORCESTER MUNICIPAL ARPT     . Its elevation:  +0310.. The USAF number: 99999 and the FIPS: US
+The station name is LEBANON AWO                  . Its elevation:  +0173.. The USAF number: 99999 and the FIPS: US
+The station name is NEW HAVEN                    . Its elevation:  +0022.. The USAF number: 99999 and the FIPS: US
+The station name is NEW YORK FORT TOTTEN         . Its elevation:  +0006.. The USAF number: 99999 and the FIPS: US
+The station name is WATERTOWN AP                 . Its elevation:  +0101.. The USAF number: 99999 and the FIPS: US
+The station name is MONTREAL DORVAL INTL AP      . Its elevation:  +0029.. The USAF number: 99999 and the FIPS: CA
+The station name is UTICA ONEIDA COUNTY AP       . Its elevation:  +0226.. The USAF number: 99999 and the FIPS: US
+The station name is HOUGHTON LAKE ROSCOMMON CO AR. Its elevation:  +0353.. The USAF number: 99999 and the FIPS: US
+The station name is ROCKFORD GREATER ROCKFORD AP . Its elevation:  +0226.. The USAF number: 99999 and the FIPS: US
+The station name is KINCHELOE AFB                . Its elevation:  +0245.. The USAF number: 99999 and the FIPS: US
+The station name is TOLEDO EXPRESS AIRPORT       . Its elevation:  +0210.. The USAF number: 99999 and the FIPS: US
+The station name is CHICAGO OHARE INTL AP        . Its elevation:  +0205.. The USAF number: 99999 and the FIPS: US
+The station name is DETROIT METRO AP             . Its elevation:  +0202.. The USAF number: 99999 and the FIPS: US
+The station name is ALPENA PHELPS COLLINS FIELD  . Its elevation:  +0211.. The USAF number: 99999 and the FIPS: US
+The station name is GRAND RAPIDS KENT COUNTY ARPT. Its elevation:  +0244.. The USAF number: 99999 and the FIPS: US
+The station name is CHICAGO MEIGS FIELD          . Its elevation:  +0180.. The USAF number: 99999 and the FIPS: US
+The station name is FRANKLIN                     . Its elevation:  +0469.. The USAF number: 99999 and the FIPS: US
+The station name is MILWAUKEE TIMMERMAN          . Its elevation:  +0227.. The USAF number: 99999 and the FIPS: US
+The station name is DUBUQUE MUNICIPAL AP         . Its elevation:  +0329.. The USAF number: 99999 and the FIPS: US
+The station name is WATERLOO MUNICIPAL AP        . Its elevation:  +0267.. The USAF number: 99999 and the FIPS: US
+The station name is GRAND FORKS AF               . Its elevation:  +0277.. The USAF number: 99999 and the FIPS: US
+The station name is HIBBING CHISHOLM-HIBBING AP  . Its elevation:  +0413.. The USAF number: 99999 and the FIPS: US
+The station name is LINCOLN 8 ENE                . Its elevation:  +0362.. The USAF number: 99999 and the FIPS: US
+The station name is LINCOLN 11 SW                . Its elevation:  +0418.. The USAF number: 99999 and the FIPS: US
+The station name is TOK 70 SE                    . Its elevation:  +0609.. The USAF number: 99999 and the FIPS: US
+The station name is RUBY 44 ESE                  . Its elevation:  +0078.. The USAF number: 99999 and the FIPS: US
+The station name is SELAWIK 28 E                 . Its elevation:  +0006.. The USAF number: 99999 and the FIPS: US
+The station name is DENALI 27 N                  . Its elevation:  +0678.. The USAF number: 99999 and the FIPS: US
+The program run during 65 sec.
+[cloudera@quickstart ~]$ 
