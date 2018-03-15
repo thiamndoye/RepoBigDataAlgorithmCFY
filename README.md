@@ -5,7 +5,7 @@ Authors: Yague Thiam (yague.thiam@essec.edu)- Chuyi Xu (chuyi.xu@essec.edu) - Fl
 Exo 2.7 and 2.8  and 5.2 are done using Java. 
 
 ### Python
-Exo 5.1,5.2 and 5.3 are done using python.
+Exo 5.1 and 5.3 are done using python.
 We use hadoop streaming on cloudera with python 2.6.6.
 
 ### Results:
